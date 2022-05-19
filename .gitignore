@@ -1,0 +1,5 @@
+dist
+node_modules
+
+# Normally we commit this but hey this is just a template repo anyway
+package-lock.json
